@@ -1,1 +1,3 @@
 # privacy-policy
+
+Privacy Policy for ITRIX ARENA Developer: Rashesh Rehi (com.rasheshrehi.itgames.it_games_hub) Effective Date: October 2026 Data Collection & Storage: ITRIX ARENA operates 100% offline on your device. It does not collect, transmit, sell, or share any personal data, location data, contacts, device identifiers, or analytics with any external server or third party. All game progress, high scores, and settings are stored strictly locally on your device via Android SharedPreferences. Children's Privacy: The app does not collect personal information from anyone, including children under 13. Contact: raseshrehi@gmail.com
